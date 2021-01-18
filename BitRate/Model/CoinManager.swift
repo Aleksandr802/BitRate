@@ -1,9 +1,9 @@
 //
-//  CoinManager.swift
-//  ByteCoin
+//  AppDelegate.swift
+//  BitRate
 //
-//  Created by Angela Yu on 11/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Aleksandr Seminov on 18/01/2021.
+//  Copyright © 2021 The Aleksandr802. All rights reserved.
 //
 
 import Foundation
